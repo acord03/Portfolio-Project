@@ -115,8 +115,9 @@ h2 {
     border-style: solid;
     border-color: white;
     border-radius: 10px;
-    width: 40%;
-    height: 80%;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
 }
 .navbar { 
     background-color: transparent !important;
