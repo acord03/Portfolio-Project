@@ -7,7 +7,7 @@ div {
 .main {
     margin: auto;
     width: 80%;
-    height:1200px;
+    height: 90%;
     grid-gap: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -115,7 +115,7 @@ h2 {
     border-style: solid;
     border-color: white;
     border-radius: 10px;
-    width: 45%;
+    width: 40%;
     height: 80%;
 }
 .navbar { 
@@ -146,4 +146,21 @@ h2 {
 }
 .project-head:hover {
     box-shadow: inset 10px 0 0 0 #25252A;
+}
+.links{
+    margin: auto;
+    width: 80%;
+    height: 10%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    border-style: none;
+}
+.link {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+.links-child {
+    text-align: center;
 }
