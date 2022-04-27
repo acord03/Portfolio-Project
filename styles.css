@@ -132,3 +132,7 @@ h2 {
     font-family: 'Roboto Mono', monospace !important;
     color: white !important;
 }
+.navbar-text {
+    color: white !important;
+    font-family: 'Roboto Mono', monospace !important;
+}
